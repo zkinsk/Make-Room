@@ -2,6 +2,10 @@
 **Richmond Va Maker Form Even Scheduler**
 [Make Room Even Scheduler](https://make-room-3.herokuapp.com/ "Make Room!")
 
+#### Guest Account
+- username: guest1
+- password: password
+
 ## Technologies Used: 
 - React
 - Bootstrap
